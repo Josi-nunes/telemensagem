@@ -1,2 +1,0 @@
-# telemensagem
-projeto-solo
